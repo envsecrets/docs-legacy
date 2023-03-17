@@ -3,21 +3,19 @@
 * [Introduction](README.md)
 * [FAQs](faqs.md)
 
+## Guides
+
+* [Getting Started](guides/start.md)
+* [Key Backup and Restore](guides/backup.md)
+
 ## Concepts
 
 * [Entity Hierarchy](concepts/hierarchy.md)
 * [Integrations](concepts/integrations.md)
 * [Events](concepts/events.md)
 
-## Guides
-
-* [Getting Started](guides/getting-started.md)
-* [Enabling Events](guides/events.md)
-* [Key Backup and Restore](guides/backup.md)
-
 ## Security
 
-* [Payments](security/payments.md)
 * [Storage](security/storage.md)
 
 ## Policies

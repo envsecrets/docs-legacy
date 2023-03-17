@@ -19,7 +19,7 @@ Some principles we took care of while designing the architecture:
 * Only the most important capabilities were built into the product. All un-important or merely useful ones were junked.
 * Pricing should be so low that consumers don't have to think twice before paying for something as simple as a stable secrets management tool.
 
-Recommended reading is the [getting-started.md](guides/getting-started.md "mention") guide.
+Recommended reading is the [start.md](guides/start.md "mention") guide.
 
 And if you have any questions or feature recommendations, please drop us a text on our discord server.
 
