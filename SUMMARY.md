@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About Us](README.md)
+* [Introduction](README.md)
 * [FAQs](faqs.md)
 
 ## Concepts
