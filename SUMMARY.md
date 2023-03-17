@@ -12,7 +12,6 @@
 ## Guides
 
 * [Getting Started](guides/getting-started.md)
-* [Adding Integrations](guides/integrations.md)
 * [Enabling Events](guides/events.md)
 * [Key Backup and Restore](guides/backup.md)
 
