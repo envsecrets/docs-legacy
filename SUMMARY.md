@@ -20,6 +20,6 @@
 
 ## Policies
 
-* [Privacy](policies/privacy.md)
+* [Privacy Policy](policies/privacy.md)
 * [Terms and Conditions](policies/terms.md)
 * [Contact Us](policies/contact.md)
