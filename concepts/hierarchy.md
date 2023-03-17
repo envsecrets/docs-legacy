@@ -2,7 +2,7 @@
 description: The tree-like structure in which your workspaces are structured.
 ---
 
-# Project Hierarchy
+# Entity Hierarchy
 
 The overall structure looks like this:
 

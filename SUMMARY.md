@@ -5,7 +5,7 @@
 
 ## Concepts
 
-* [Project Hierarchy](concepts/hierarchy.md)
+* [Entity Hierarchy](concepts/hierarchy.md)
 * [Integrations](concepts/integrations.md)
 * [Events](concepts/events.md)
 
