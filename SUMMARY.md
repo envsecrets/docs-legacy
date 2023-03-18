@@ -16,8 +16,7 @@
 
 ## Security
 
-* [Data Storage](security/data-storage.md)
-* [Secrets Encryption](security/secrets-encryption.md)
+* [Encryption & Keys](security/encryption-and-keys.md)
 
 ## Policies
 
