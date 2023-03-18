@@ -1,8 +1,7 @@
 ---
 description: >-
   Also referred to as "sync events" on the platform, events simply allow you to
-  enable an organisation level integration on a specific environment of any
-  project.
+  enable an organization level integration on a specific environment.
 ---
 
 # Events
