@@ -14,9 +14,9 @@ Once your account is created, we will automatically create a "default" organisat
 
 Step 1: Download the CLI
 
-```sh
-brew install envsecrets/tap/envsecrets
-```
+{% content-ref url="../cli/install-and-upgrade.md" %}
+[install-and-upgrade.md](../cli/install-and-upgrade.md)
+{% endcontent-ref %}
 
 Step 2: Login to your CLI. If you signed-up using Oauth/social providers like Github, just click on your avatar in the header and use the "change password" option to manually set a new account password for yourself.
 
