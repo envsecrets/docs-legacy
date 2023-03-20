@@ -5,7 +5,8 @@
 
 ## CLI
 
-* [Install](cli/install.md)
+* [Install & Upgrade](cli/install-and-upgrade.md)
+* [Inject Secrets Into Process](cli/inject-secrets-into-process.md)
 
 ## Guides
 
