@@ -3,6 +3,10 @@
 * [Introduction](README.md)
 * [FAQs](faqs.md)
 
+## CLI
+
+* [Install](cli/install.md)
+
 ## Guides
 
 * [Getting Started](guides/start.md)
