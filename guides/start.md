@@ -12,21 +12,25 @@ Once your account is created, we will automatically create a "default" organisat
 
 ## Setup CLI
 
-Step 1: Download the CLI
+1. Download the CLI from the following guide.
 
 {% content-ref url="../cli/install-and-upgrade.md" %}
 [install-and-upgrade.md](../cli/install-and-upgrade.md)
 {% endcontent-ref %}
 
-Step 2: Login to your CLI. If you signed-up using Oauth/social providers like Github, just click on your avatar in the header and use the "change password" option to manually set a new account password for yourself.
+2. &#x20;Login to your CLI. If you signed-up using Oauth/social providers like Github, just click on your avatar in the header and use the "change password" option to manually set a new account password for yourself.
 
 ```sh
 envsecrets login
 ```
 
-Step 3: Change directory to your project root: `cd my-project`
+3. &#x20;Change directory to your project root.
 
-Step 4: Intialize envsecrets in your project root.
+```sh
+cd my-project
+```
+
+3. &#x20;Initialize envsecrets in your project root.
 
 ```sh
 envsecrets init
@@ -34,19 +38,19 @@ envsecrets init
 
 ## Set Your First Secret
 
-Step 1: Set your first secret.
+1. &#x20;Set your first secret.
 
 ```sh
 envsecrets set DB_PASSWORD=password
 ```
 
-Step 2: To check whether your key-value pair has been set properly or not, simply fetch latest version of secrets for this environment.
+2. &#x20;To check whether your key-value pair has been set properly or not, simply fetch latest version of secrets for this environment.
 
 ```sh
 envsecrets export
 ```
 
-Step 3: Inject your secrets in the shell and natively access them in your process.
+3. &#x20;Inject your secrets in the shell and natively access them in your process.
 
 ```sh
 envsecrets run -- npm run dev
