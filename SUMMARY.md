@@ -28,3 +28,4 @@
 * [Privacy Policy](policies/privacy.md)
 * [Terms and Conditions](policies/terms.md)
 * [Contact Us](policies/contact.md)
+* [Cancellation & Refund](policies/refund.md)
