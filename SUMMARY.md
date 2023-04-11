@@ -1,7 +1,9 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [FAQs](faqs.md)
+* [FAQs](faqs/README.md)
+  * [Platform FAQs](faqs/platform.md)
+  * [Pricing FAQs](faqs/pricing-faqs.md)
 
 ## CLI
 
