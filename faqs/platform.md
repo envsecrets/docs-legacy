@@ -6,6 +6,10 @@ description: >-
 
 # Platform FAQs
 
+## **How long does it take to learn envsecrets?**
+
+For experienced engineers, it generally takes 10 minutes to get up to speed with envsecrets. And creating a few environments and setting their secrets to get comfortable with the platform.
+
 ## Why are you storing my encryption keys with you?
 
 Simply put, we are not just letting you write/create your secrets but also let you read/access them. And to decrypt those secrets before serving them to you, we obviously need the same encryption keys.
